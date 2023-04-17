@@ -11,7 +11,7 @@
 
 Usamos varios lenguajes de programación y herramientas en nuestros proyectos. Aquí están algunos de los que utilizamos con más frecuencia:
 
-[![lenguage](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,javascript,python,typescript,git&theme=light)](https://github.com/BlocksWorlds/BlocksWorlds/)
+[![lenguage](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,javascript,python,typescript,git,visualstudios,visualcodestudios&theme=light)](https://github.com/BlocksWorlds/BlocksWorlds/)
 
 ## Discord Oficial
 
