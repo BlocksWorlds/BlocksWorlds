@@ -1,17 +1,17 @@
-# BlocksWorlds Studios
+#BlocksWorldsStudios
 
-Welcome to BlocksWorlds Studios! We are a team of programmers who are passionate about creating quality software. Here you can find information about our projects, the programming languages we use and how to join our Discord server.
+Welcome to BlocksWorlds Studios! We are a team of programmers who are passionate about creating quality software. Here you can find information about our projects, programming languages we use and how to join our Discord server.
 
-##Projects
+## Projects
 
-- [ChatBot Discord OpenAi] (link to the project) 🤖
-- [Bot Start Discord Temple] (link to project) 💻
+- [ChatBot Discord OpenAi](link-to-project) 🤖
+- [Bot Start Discord Temple](link-to-project) 💻
 
 ## Programming languages
 
 We use various programming languages and tools in our projects. Here are some of the ones we use most often:
 
-[![language](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,javascript,python,typescript,git,blender&theme=light)](https://github.com/BlocksWorlds/ world blocks/)
+[![language](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,javascript,python,typescript,git,blender&theme=light)](https://github.com/BlocksWorlds/BlocksWorlds/)
 
 ## Official Discord
 
@@ -24,6 +24,6 @@ Join our Discord server to talk with other programmers, get help and collaborate
 
 We would love for you to contribute to our projects! To get started, fork our repository and submit a pull request. Read our contribution guidelines for more information.
 
-##license
+## License
 
 All of our projects are available under the MIT License. See the LICENSE file for more details.
