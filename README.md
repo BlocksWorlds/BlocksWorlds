@@ -1,29 +1,29 @@
-# BlocksWorldsStudios
+# BlocksWorlds Studios
 
-Welcome to BlocksWorlds Studios! We are a team of programmers who are passionate about creating quality software. Here you can find information about our projects, programming languages we use and how to join our Discord server.
+¡Bienvenido a BlocksWorlds Studios! Somos un equipo de programadores apasionados por crear software de calidad. Aquí puedes encontrar información sobre nuestros proyectos, lenguajes de programación que utilizamos y cómo unirte a nuestro servidor de Discord.
 
-## Projects
+## Proyectos
 
-- [ChatBot Discord OpenAi](link-to-project) 🤖
-- [Bot Start Discord Temple](link-to-project) 💻
+- [ChatBot Discord OpenAi](link-al-proyecto) 🤖
+- [Bot Start Discord Temple](link-al-proyecto) 💻
 
-## Programming languages
+## Lenguajes de Programación
 
-We use various programming languages and tools in our projects. Here are some of the ones we use most often:
+Usamos varios lenguajes de programación y herramientas en nuestros proyectos. Aquí están algunos de los que utilizamos con más frecuencia:
 
-[![language](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,javascript,python,typescript,git,blender&theme=light)](https://github.com/BlocksWorlds/BlocksWorlds/)
+[![lenguage](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,javascript,python,typescript,git,blender&theme=light)](https://github.com/BlocksWorlds/BlocksWorlds/)
 
-## Official Discord
+## Discord Oficial
 
-Join our Discord server to talk with other programmers, get help and collaborate on projects, and buy quality products.
+Únete a nuestro servidor de Discord para hablar con otros programadores, obtener ayuda y colaborar en proyectos, asi como comprar productos de calidad.
 
-[![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://github.com/BlocksWorlds/BlocksWorlds/) [![](https://dcbadge.vercel. app/api/server/xPSF2N2Rud)](https://discord.gg/xPSF2N2Rud)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://github.com/BlocksWorlds/BlocksWorlds/)   [![](https://dcbadge.vercel.app/api/server/xPSF2N2Rud)](https://discord.gg/xPSF2N2Rud)
 
 
-## Contribute
+## Contribuir
 
-We would love for you to contribute to our projects! To get started, fork our repository and submit a pull request. Read our contribution guidelines for more information.
+¡Nos encantaría que contribuyeras a nuestros proyectos! Para empezar, haz un fork de nuestro repositorio y envía un pull request. Lee nuestras directrices de contribución para obtener más información.
 
-## License
+## Licencia
 
-All of our projects are available under the MIT License. See the LICENSE file for more details.
+Todos nuestros proyectos están disponibles bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
