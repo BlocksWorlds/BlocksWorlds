@@ -1,4 +1,4 @@
-# BlocksWorld sStudios
+# BlocksWorlds Studios
 
 Welcome to BlocksWorlds Studios! We are a team of programmers who are passionate about creating quality software. Here you can find information about our projects, programming languages we use and how to join our Discord server.
 
