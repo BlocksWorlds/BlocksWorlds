@@ -17,7 +17,7 @@ We use various programming languages and tools in our projects. Here are some of
 
 Join our Discord server to talk with other programmers, get help and collaborate on projects, and buy quality products.
 
-[![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://github.com/BlocksWorlds/BlocksWorlds/) [![](https://dcbadge.vercel. app/api/server/xPSF2N2Rud)](https://discord.gg/xPSF2N2Rud)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://github.com/BlocksWorlds/BlocksWorlds/)   [![](https://dcbadge.vercel.app/api/server/xPSF2N2Rud)](https://discord.gg/xPSF2N2Rud)
 
 
 ## Contribute
